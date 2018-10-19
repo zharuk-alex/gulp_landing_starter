@@ -1,0 +1,13 @@
+[{
+  "items":[
+    {
+      "alt":"First Slide",
+      "src":"slide1.jpg",
+      "active":" active"
+    },
+    {
+      "alt":"Second Slide",
+      "src":"slide2.jpg"
+    }
+  ]
+  }]
